@@ -1,4 +1,0 @@
-pkg audit -F
-pkg upgrade
-
-FreeBSD romeo 10.1-RELEASE FreeBSD 10.1-RELEASE #1: Wed Dec 10 16:53:19 EET 2014     r0x@romeo:/usr/obj/usr/src/sys/n00b  i386
