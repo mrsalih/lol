@@ -677,7 +677,7 @@ pinentry-curses-0.9.1          Curses version of the GnuPG password dialog
 pinentry-gtk2-0.9.1            GTK+ 2.0 version of the GnuPG password dialog
 pinentry-tty-0.9.1             Console version of the GnuPG password dialog
 pixman-0.32.6_1                Low-level pixel manipulation library
-pkg-1.5.1                      Package manager
+pkg-1.5.2                      Package manager
 pkg_cutleaves-20090810         Interactive script for deinstalling 'leaf' packages
 pkgconf-0.9.10                 Utility to help to configure compiler and linker flags
 png-1.6.17                     Library for manipulating PNG images
@@ -700,6 +700,7 @@ psutils-1.17_5                 Utilities for manipulating PostScript documents
 pulledpork-0.7.0               Script to update snort-2.8+ rules
 pulseaudio-6.0                 Sound server for UNIX
 pwman-0.4.4                    Console password management application based on gpg(me)
+py-fishcrypt-4.21              FiSH/Mircryption clone for XChat/HexChat
 py27-Babel-1.3_2               Collection of tools for internationalizing Python applications
 py27-EnthoughtBase-3.1.0_1     Core Packages for the Enthought Tool Suite
 py27-Jinja2-2.7.3              Fast and easy to use stand-alone template engine
