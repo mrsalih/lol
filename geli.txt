@@ -1,0 +1,21 @@
+Geom name: md0.eli
+State: ACTIVE
+EncryptionAlgorithm: CAMELLIA-CBC
+KeyLength: 128
+Crypto: software
+Version: 7
+UsedKey: 0
+Flags: NONE
+KeysAllocated: 1
+KeysTotal: 1
+Providers:
+1. Name: md0.eli
+   Mediasize: 524283904 (500M)
+   Sectorsize: 4096
+   Mode: r1w1e1
+Consumers:
+1. Name: md0
+   Mediasize: 524288000 (500M)
+   Sectorsize: 512
+   Mode: r1w1e1
+
