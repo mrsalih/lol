@@ -1,1 +1,2 @@
 geli init -s 4096 -l 128 -e camellia-cbc /dev/md0
+geli init -s 512 -l 128 -e camellia-cbc /dev/da0.eli #usb
